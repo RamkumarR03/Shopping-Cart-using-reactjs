@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/RamkumarR03/Shopping-Cart-using-reactjs.git/static/css/main.3dadb9ee.css",
+    "main.js": "/RamkumarR03/Shopping-Cart-using-reactjs.git/static/js/main.6b59202f.js",
+    "static/media/Pomegranate.jpg": "/RamkumarR03/Shopping-Cart-using-reactjs.git/static/media/Pomegranate.01545a699966682b27a3.jpg",
+    "static/media/mango.png": "/RamkumarR03/Shopping-Cart-using-reactjs.git/static/media/mango.38f7d7172cfef56ff7be.png",
+    "static/media/strawberries.jpg": "/RamkumarR03/Shopping-Cart-using-reactjs.git/static/media/strawberries.4c7668f27d1519cfab55.jpg",
+    "static/media/apple.webp": "/RamkumarR03/Shopping-Cart-using-reactjs.git/static/media/apple.1eee5e1592e2d998f6ef.webp",
+    "index.html": "/RamkumarR03/Shopping-Cart-using-reactjs.git/index.html",
+    "main.3dadb9ee.css.map": "/RamkumarR03/Shopping-Cart-using-reactjs.git/static/css/main.3dadb9ee.css.map",
+    "main.6b59202f.js.map": "/RamkumarR03/Shopping-Cart-using-reactjs.git/static/js/main.6b59202f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dadb9ee.css",
+    "static/js/main.6b59202f.js"
+  ]
+}
