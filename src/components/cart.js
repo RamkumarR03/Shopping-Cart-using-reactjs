@@ -6,7 +6,7 @@ import Mango from './mango.png';
 import '../App.css';
 
 function Shoppingmart() {
-    // State to keep track of the quantity of each item
+  
     const [counts, setCounts] = useState({
         apple: 0,
         pomegranate: 0,
