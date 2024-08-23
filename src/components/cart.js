@@ -14,11 +14,11 @@ function Shoppingmart() {
         mango: 0
     });
 
-    // Function to handle increment and decrement
+  
     const handleCountChange = (item, change) => {
         setCounts(prevCounts => ({
             ...prevCounts,
-            [item]: Math.max(0, prevCounts[item] + change) // Ensures count doesn't go below 0
+            [item]: Math.max(0, prevCounts[item] + change) 
         }));
     };
 
@@ -55,7 +55,6 @@ function Shoppingmart() {
                         </div>
                     </div>
                 </div>
-                {/* Repeat the same structure for Pomegranate, Strawberry, and Mango */}
                 <div className='row'>
                     <div className='item'>
                         <img src={Pome} alt='Pomegranate' />
@@ -85,7 +84,7 @@ function Shoppingmart() {
                         </div>
                     </div>
                 </div>
-                {/* Repeat for Strawberry and Mango */}
+    
                 <div className='row'>
                     <div className='item'>
                         <img src={Strawberry} alt='Strawberry' />
@@ -146,7 +145,6 @@ function Shoppingmart() {
                 </div>
             </div>
 
-            {/* Display the counts at the bottom of the page */}
             <div className='summary'>
                 <h2>Summary</h2>
                 <p>The Apple: {counts.apple}</p>
